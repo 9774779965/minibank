@@ -1,0 +1,22 @@
+{
+  "name": "minibank",
+  "version": "1.0.0",
+  "description": "GitHub repository minibank test",
+  "main": "BankAccount.js",
+  "scripts": {
+    "start": "node BankAccount.js",
+    "bank": "node BankAccount.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9774779965/minibank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/9774779965/minibank/issues"
+  },
+  "homepage": "https://github.com/9774779965/minibank#readme"
+}
